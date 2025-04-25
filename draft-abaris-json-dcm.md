@@ -6,7 +6,7 @@ category: info
 docname: draft-abaris-json-dcm-latest
 submissiontype: independent
 number:
-date: 2025-04-22
+date:
 consensus: false
 v: 3
 area: Applications 
