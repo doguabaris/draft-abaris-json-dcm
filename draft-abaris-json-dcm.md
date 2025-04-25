@@ -9,23 +9,23 @@ number:
 date:
 consensus: false
 v: 3
-area: Applications 
-workgroup: Independent Submission 
+area: Applications
+workgroup: Independent Submission
 keyword:
-- JSON 
-- dynamic configuration 
-- configuration management 
+- JSON
+- dynamic configuration
+- configuration management
 - versioning
 - distributed systems
 - infrastructure as code
 author:
  -
-    fullname: Dogu Abaris 
-    organization: Individual Contributor 
+    fullname: Dogu Abaris
+    organization: Individual Contributor
     email: abaris@null.net
 normative:
 
-informative: 
+informative:
   ATLAS-TRIGGER-2024:
     target: https://iopscience.iop.org/article/10.1088/1748-0221/19/06/P06029
     title: "The ATLAS Trigger System for LHC Run 3 and Trigger Performance in 2022"
