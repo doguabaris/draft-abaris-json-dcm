@@ -1,8 +1,8 @@
 <!-- regenerate: on (set to off if you edit this file) -->
 
-# TODO - Your title
+# JSON-Based Dynamic Configuration Management
 
-This is the working area for the individual Internet-Draft, "TODO - Your title".
+This is the working area for the individual Internet-Draft, "JSON-Based Dynamic Configuration Management".
 
 * [Editor's Copy](https://doguabaris.github.io/draft-abaris-json-dcm/#go.draft-abaris-json-dcm.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-abaris-json-dcm)
